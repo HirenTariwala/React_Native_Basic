@@ -6,7 +6,8 @@ import { styles } from './style';
 
 
 // Dimensions.addEventListner('change', () => {}) Attach this to detact orintation of device Landscape or poitraite.
-// https://facebook.github.io/react-native/docs/dimensions#docsNav
+// https://facebook.github.io/react-native/docs/dimensions#docsNav.
+// app.json have set value for orintaion you can change from there. 
 // ScreenOrintaion use to lock or unlock screen runtime. It is part of expo. It is having some more functionality as well
 // Platform.OS give you OS of current device you can set conditional style based on that
 // Ex. Platform.OS === "ios" ? color: 'black' : 'white'
