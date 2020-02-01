@@ -8,7 +8,7 @@ import * as Font from 'expo-font';
 import { AppLoading } from 'expo';
 
 
-// To apply gloal fontFamily just use reuable componnets or make common style for fonts
+// To apply global fontFamily just use reusable componnets or make common style for fonts
 // SafeAreaView give design solution for modern device
 // During landscape mode having trouble for all side padding it will auto adjust.
 
